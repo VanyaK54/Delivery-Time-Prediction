@@ -1,0 +1,13 @@
+# Ignore data and model outputs
+*.csv
+*.xlsx
+*.pkl
+*.db
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Power BI
+*.pbix
